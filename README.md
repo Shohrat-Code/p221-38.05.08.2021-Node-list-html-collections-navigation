@@ -23,4 +23,6 @@ https://www.w3schools.com/jsref/dom_obj_event.asp<br />
 
 
 
-##### 2. Drive-a şəkillərini yüklədiyim taskları həll edin.
+##### 2. Aşağıdakı taskları həll edin:
+i. Drive-a şəkillərini yüklədiyim taskları yazın.<br />
+ii. Linkdəki accordionu js ilə yazın. https://preview.colorlib.com/theme/bac/accordion-02/
